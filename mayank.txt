@@ -7,6 +7,6 @@ Hey There! I am Mayank Rakesh.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I 
 <p> Perhaps you can know more about me from my <a href="https://drive.google.com/file/d/1p38ViW_TUiIQwuqXNNn_5jw_PtwYKtDp/view?usp=sharing"> resume</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <span id="a">root@mayank.rakesh</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->contact.txt<br/><br/>
 
-You can contact me at my email.<!-- slightdelayhere-->, feel free to connect at <!-- longlonglongcomment --><a href="mayank.rakesh.ddn@gmail.com">mayank.rakesh.ddn@gmail.com</a>.
+You can contact me at my email.<!-- slightdelayhere-->, feel free to connect at <!-- longlonglongcomment --><a href="mailto:mayank.rakesh.ddn@gmail.com">mayank.rakesh.ddn@gmail.com</a>.
 
 <p>Cheers!</p>
